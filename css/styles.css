@@ -1,0 +1,149 @@
+/*---------------------------------------- body----------------------------------------------------------- */
+body {
+    text-align: center;
+    font-family: 'montserrat' , sans-serif;
+    color: #40514e;
+    margin: 0;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin-top: 50px;
+
+}
+
+h2 {
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-family: 'montserrat' , sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'montserrat' , sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr{
+    background-color: white;
+    border-style: dotted none none;
+    height: 0;
+    width: 5%;
+    border-width: 8px;
+    color: #eaf6f6;
+    margin: auto;
+   
+    
+}
+
+/* ---------------------------------------- Top container ------------------------------------------*/
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.profile-discription{
+    font-weight: normal;
+}
+
+/*--------------------------------------------- middle container ----------------------------------*/
+
+.middle-container{
+    margin: 100px 0;
+}
+.profile-img {
+    height: 300px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    
+}
+
+.design {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.travelling {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+button {
+    margin: 50px auto;
+    background-image: linear-gradient(#11cdd4,#11999e); 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.button-1 {
+    color: #eaf6f6;
+    text-decoration: none;
+    
+}
+
+button:hover {
+    background-image: linear-gradient(#30a3cb,#2bc4ad);
+}
+
+.msg {
+    width: 30%;
+    margin: auto;
+}
+
+/*--------------------------------------- bottom container--------------------------------------- */
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px;
+}
+
+.footer-link {
+    margin: 10px 30px;
+    color: #11999e;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.bottom-line {
+    color: #eaf6f6;
+    margin-top: 50px;
+}
+
+.a {
+    color: #11999e ;
+}
