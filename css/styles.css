@@ -45,7 +45,7 @@ hr{
 
 /* ---------------------------------------- Top container ------------------------------------------*/
 .top-container {
-    background-color: #f2a154;
+    background-color: #fbe6c2;
     position: relative;
     padding-top: 100px;
 }
@@ -60,6 +60,10 @@ hr{
     position: absolute;
     left: 250px;
     bottom: 300px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
 }
 
 .profile-discription{
@@ -126,7 +130,7 @@ button:hover {
 /*--------------------------------------- bottom container--------------------------------------- */
 
 .bottom-container {
-    background-color: #66bfbf;
+    background-color: #fbe6c2;
     padding: 50px;
 }
 
@@ -141,7 +145,7 @@ button:hover {
 }
 
 .bottom-line {
-    color: #eaf6f6;
+    color: gray;
     margin-top: 50px;
 }
 
